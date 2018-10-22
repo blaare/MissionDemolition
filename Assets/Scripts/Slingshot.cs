@@ -4,13 +4,14 @@ using UnityEngine;
 
 public class Slingshot : MonoBehaviour {
 
-    static private Slingshot S;
+    static public Slingshot S;
 
 
     [Header("Set In Inspector")]
     public GameObject prefabProjectile;
     public float velocityMultiplier = 8f;
     public Camera mainCamera;
+    public GameObject prefabProjectileLine;
 
     [Header("Set Dynamically <Do Not Set>")]
     public GameObject launchPoint;
@@ -97,7 +98,7 @@ public class Slingshot : MonoBehaviour {
             FollowCamera.PointOfInterest = projectile;
             projectile = null;
             MissionDemolition.ShotFired();
-            ProjectileLine.S.pointOfInterest = projectile;
+            
         }
 
 
