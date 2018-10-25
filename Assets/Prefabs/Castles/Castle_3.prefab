@@ -1628,7 +1628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114158359519735234
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1642,7 +1642,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114215353542447260
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1656,7 +1656,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114245282938959820
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1681,7 +1681,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114316624136875446
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1695,7 +1695,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114321733091881626
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1709,7 +1709,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114360934564382832
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1745,7 +1745,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114434587779106266
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1803,7 +1803,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114667420275965262
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1817,7 +1817,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114683630674661928
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1831,7 +1831,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114736980519348550
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1889,7 +1889,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114887102768301126
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1903,7 +1903,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114934934095587300
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1928,7 +1928,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5
 --- !u!114 &114969934735621744
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1942,4 +1942,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfHits: 2
   velocityRequired: 4
-  reduceColorBy: 0.2
+  reduceColorBy: 0.5

@@ -61,6 +61,7 @@ public class Slingshot : MonoBehaviour {
         Debug.Log("setting new projectile");
         projectileRigidbody = projectile.GetComponent<Rigidbody>();
         projectileRigidbody.isKinematic = true; //Note already set by  getComponent
+        SlingshotBand.projectile = projectile;
     }
 
 
@@ -98,7 +99,8 @@ public class Slingshot : MonoBehaviour {
             FollowCamera.PointOfInterest = projectile;
             projectile = null;
             MissionDemolition.ShotFired();
-            
+            SlingshotBand.projectile = null;
+
         }
 
 
